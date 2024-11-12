@@ -5,7 +5,7 @@ session_start();
 $host = "localhost";
 $dbname = "gestor_tareas";
 $username = "root";  // Cambia si tienes una contraseña o un usuario diferente
-$password = "";lspdlpls
+$password = "";
 
 // Conectar a la base de datos
 try {
